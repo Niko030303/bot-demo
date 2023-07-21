@@ -130,4 +130,4 @@ bot.on('message:text', async ctx => {
 });
 
 // 启动bot
-bot.start()
+// bot.start()
